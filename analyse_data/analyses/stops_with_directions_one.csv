@@ -1,0 +1,62 @@
+stop_id,stop_code,stop_name,tts_stop_name,stop_lat,stop_lon,location_type,parent_station,wheelchair_boarding,direction
+1071,41101,Mosson,mosson,43.616314,3.819778,,,1,0
+1072,41103,Halles de la Paillade,HALLES  DE LA PAILLADE,43.627563,3.817496,,,1,0
+1073,41105,Saint-Paul,SAINT Pol,43.630653,3.821078,,,1,0
+1074,41107,Hauts de Massane,HAUTS DE MASSANE,43.636364,3.822762,,,1,0
+1075,41109,Euromédecine,euro médecinne,43.638966,3.827682,,,1,0
+1076,41111,Malbosc - Domaine d'Ô,"MAL BOSC, domaine d'o",43.634583,3.833186,,,1,0
+1077,41113,Château d'Ô,CHATEAU D'eau,43.631435,3.843079,,,1,0
+1078,41115,Occitanie,OCCITANIE,43.634624,3.848449,,,1,0
+1079,41117,Hôpital Lapeyronie,"hôpital, lapaironi",43.631645,3.852566,,,1,0
+1080,41119,Universités Sciences et Lettres,"universités des sciences, et  lettres",43.629116,3.861558,,,1,0
+1081,41121,Saint-Éloi,SAINT tEt LOI,43.626984,3.865684,,,1,0
+1082,41123,Boutonnet - Cité des Arts,BOUTONNET!cité des arts,43.622581,3.868078,,,1,0
+1083,41125,Stade Philippidès,s'tAAde filipi d'èsse,43.618984,3.869454,,,1,0
+1084,41127,Place Albert 1er - Saint-Charles,"place ALBERT premié, st charles",43.616444,3.874236,,,1,0
+1085,41129,Louis Blanc - Agora de la Danse,"LOU I BLANC, agora de la danse",43.614738,3.878323,,,1,0
+1086,41131,Corum,CORUM,43.614246,3.881947,,,1,0
+1087,41133,Comédie,com édie,43.608364,3.879673,,,1,0
+1088,41135,Gare Saint-Roch,GARE SAINT ROCH,43.605732,3.880146,,,1,0
+1090,41139,Antigone,anti gOnne.,43.608578,3.886656,,,1,0
+1091,41141,Léon Blum,léon bloume,43.608906,3.890154,,,1,0
+1092,41143,Place de l'Europe,PLace DE L'EUROPE,43.607182,3.893955,,,1,0
+1093,41145,Rives du Lez,rive du lèze,43.604065,3.894921,,,1,0
+1094,41147,Moularès (Hôtel de Ville),"MOULA RèSse, hôtel, deux ville",43.600723,3.89535,,,1,0
+1095,41149,Port Marianne,PORT MARIANNE,43.60157,3.899616,,,1,0
+1096,41153,Millénaire,MI Lé NAIRE,43.602875,3.910105,,,1,0
+1097,41155,Odysseum,oDYSSé homme,43.604115,3.920617,,,1,0
+1540,41161,Place de France,PLACE DE FRANCE,43.603718,3.915732,,,1,0
+1652,41151,Mondial 98,MONDIAL 98,43.602612,3.904097,,,1,0
+1752,41138,Du Guesclin,DU GUESCLAIN,43.607109,3.883239,,,1,0
+1764,41163,Stade de la Mosson,staade de la mosson,43.621246,3.817369,,,1,0
+2446,41169,Gare Sud de France,gare montpellier sud de france,43.597027,3.922102,,,1,0
+1098,41201,Odysseum,oDYSSé homme,43.604122,3.920666,,,1,1
+1099,41203,Millénaire,mI Lé NAIRE,43.602901,3.910105,,,1,1
+1100,41207,Port Marianne,PORT MARIANNE,43.601559,3.89917,,,1,1
+1101,41209,Moularès (Hôtel de Ville),"MOULA RèSse, hôtel, deux ville",43.600731,3.895424,,,1,1
+1102,41211,Rives du Lez,rive du lèze,43.604012,3.894932,,,1,1
+1103,41213,Place de l'Europe,PLace DE L'EUROPE,43.607296,3.89392,,,1,1
+1104,41215,Léon Blum,léon bloume,43.608932,3.890179,,,1,1
+1105,41217,Antigone,anti gOnne.,43.608597,3.88662,,,1,1
+1107,41221,Gare Saint-Roch,GARE SAINT ROCH,43.605759,3.880171,,,1,1
+1108,41223,Comédie,com édie,43.608356,3.879722,,,1,1
+1109,41225,Corum,CORUM,43.6143,3.882011,,,1,1
+1110,41227,Louis Blanc - Agora de la Danse,"LOU I BLANC, agora de la danse",43.614731,3.878385,,,1,1
+1111,41229,Place Albert 1er - Saint-Charles,"place ALBERT premié, st charles",43.616398,3.874272,,,1,1
+1112,41231,Stade Philippidès,s'tAAde filipi d'èsse,43.61898,3.869491,,,1,1
+1113,41233,Boutonnet - Cité des Arts,BOUTONNET!cité des arts,43.622589,3.868115,,,1,1
+1114,41235,Saint-Éloi,SAINT tEt LOI,43.626999,3.865709,,,1,1
+1115,41237,Universités Sciences et Lettres,"universités des sciences, et  lettres",43.629154,3.861571,,,1,1
+1116,41239,Hôpital Lapeyronie,"hôpital, lapaironi",43.63166,3.852591,,,1,1
+1117,41241,Occitanie,OCCITANIE,43.634651,3.848474,,,1,1
+1118,41243,Château d'Ô,CHATEAU D'eau,43.631409,3.843054,,,1,1
+1119,41245,Malbosc - Domaine d'Ô,"MAL BOSC, domaine d'o",43.634602,3.833224,,,1,1
+1120,41247,Euromédecine,euro médecinne,43.638992,3.82767,,,1,1
+1121,41249,Hauts de Massane,HAUTS DE MASSANE,43.636364,3.822712,,,1,1
+1122,41251,Saint-Paul,SAINT Pol,43.63068,3.821054,,,1,1
+1123,41253,Halles de la Paillade,HALLES DE LA PAILLADE,43.627563,3.817459,,,1,1
+1541,41261,Place de France,PLACE DE FRANCE,43.603745,3.915708,,,1,1
+1653,41205,Mondial 98,MONDIAL 98,43.602638,3.904098,,,1,1
+1751,41218,Du Guesclin,DU GUESCLAIN,43.607117,3.883202,,,1,1
+1765,41263,Stade de la Mosson,staade de la mosson,43.621288,3.81737,,,1,1
+2447,41269,Gare Sud de France,gare montpellier sud de france,43.597054,3.92214,,,1,1
